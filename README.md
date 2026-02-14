@@ -85,4 +85,41 @@ Restart Application:
 
 ## pm2 status
 
+---
+
+## 📸 Deployment Screenshots
+
+### EC2 Instance Creation
+![EC2](screenshots/EC2 creation.png)
+
+### Security Group Configuration
+![Security Group](screenshots/Securtity group .png)
+
+### AMI Creation
+![AMI](screenshots/Creation AMI.png)
+
+### Launch Template
+![Launch Template](screenshots/Creation launch tempalte.png)
+
+### Target Group Creation
+![Target Group](screenshots/Creation of LB target Grp.png)
+
+### Application Load Balancer
+![ALB](screenshots/Creation ALB.png)
+
+### Target Health - Healthy
+![Target Health](screenshots/Target Heath states.png)
+
+### Nginx Reverse Proxy Configuration
+![Nginx Config](screenshots/nginx reverse proxy .png)
+
+### PM2 Running Backend
+![PM2](screenshots/PM2 status.png)
+
+### HTTPS Enabled
+![HTTPS](screenshots/https enabled .png)
+
+### Final Application Running
+![Final App](screenshots/travel memory front end .png)
+
 
